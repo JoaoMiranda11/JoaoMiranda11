@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-
 JS | REACTJS | NEXTJS | JEST | NODE | EXPRESS | MONGODB | SQL | PYTHON | SPARK | PANDAS
 
 Front End Dev
@@ -13,5 +11,9 @@ UX designer
 - 👯 I’m looking to collaborate on ReactJS Projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Cats > Humans
+
+<!--
+
+
 
 -->
