@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-JS | REACTJS | NEXTJS | JEST | NODE | EXPRESS | MONGODB | SQL | PYTHON | SPARK | PANDAS
+JS | REACTJS | NEXTJS | JEST | NODE | EXPRESS | SQL | PYTHON | SPARK | PANDAS
 
 Front End Dev <br>
 Data analytics and plot (graphs, dashboards) <br>
