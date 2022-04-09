@@ -1,16 +1,17 @@
 ### Hi there 👋
 
 <!--
-**JoaoMiranda11/JoaoMiranda11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+JS | REACTJS | NEXTJS | JEST | NODE | EXPRESS | MONGODB | SQL | PYTHON | SPARK | PANDAS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Front End Dev
+Data analytics and plot (graphs, dashboards)
+UX designer
+
+- 🔭 I’m currently working on Front-End Dev
+- 🌱 I’m currently learning React Native
+- 👯 I’m looking to collaborate on ReactJS Projects
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Cats > Humans
+
 -->
