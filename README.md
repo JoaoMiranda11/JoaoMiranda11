@@ -10,6 +10,7 @@
   </p>
 </div>
 
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=JoaoMiranda11&show_icons=true)
 
 - 🔭 I’m currently working on Front-End Dev
 - 🌱 I’m currently learning React Native
@@ -17,8 +18,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Cats > Humans
 
-
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=JoaoMiranda11&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMiranda11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
