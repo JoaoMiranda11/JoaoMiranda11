@@ -3,8 +3,8 @@
 JS | REACTJS | NEXTJS | JEST | NODE | EXPRESS | SQL | PYTHON | SPARK | PANDAS
 
 <div style="display:flex; align-items: center; justify-content:center; flex-direction:column">
-  <h1>João S. Miranda, 23 yo, Brazilian</h1>
-  <p>Electronic Engineering (UFPE)</p>
+  <h1>João S. Miranda</h1>
+  <p>Electronic Engineering (UFPE), 23 yo, Brazilian</p>
 </div>
 
 
