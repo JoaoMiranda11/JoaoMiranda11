@@ -1,7 +1,3 @@
-### Hi there 👋
-
-
-
 <div style="display:flex; align-items: center; justify-content:center; flex-direction:column;">
   <h1>João S. Miranda</h1>
   <p>
