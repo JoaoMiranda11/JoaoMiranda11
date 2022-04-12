@@ -4,15 +4,18 @@ JS | REACTJS | NEXTJS | JEST | NODE | EXPRESS | SQL | PYTHON | SPARK | PANDAS
 
 <div style="display:flex; align-items: center; justify-content:center; flex-direction:column;">
   <h1>João S. Miranda</h1>
-  <p>Electronic Engineering (UFPE)</p>
-  <p>23 yo</p>
-  <p>Brazilian</p>
+  <p>
+    Electronic Engineering (UFPE)<br>
+    23 yo<br>
+    Brazilian<br>
+    Front End Dev <br>
+    Data analytics and plot (graphs, dashboards) <br>
+    UX designer <br>
+  </p>
 </div>
 
 
-Front End Dev <br>
-Data analytics and plot (graphs, dashboards) <br>
-UX designer <br>
+
 
 - 🔭 I’m currently working on Front-End Dev
 - 🌱 I’m currently learning React Native
