@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-JS | REACTJS | NEXTJS | JEST | NODE | EXPRESS | SQL | PYTHON | SPARK | PANDAS
+
 
 <div style="display:flex; align-items: center; justify-content:center; flex-direction:column;">
   <h1>João S. Miranda</h1>
@@ -8,13 +8,11 @@ JS | REACTJS | NEXTJS | JEST | NODE | EXPRESS | SQL | PYTHON | SPARK | PANDAS
     Electronic Engineering (UFPE)<br>
     23 yo<br>
     Brazilian<br>
-    Front End Dev <br>
+    JS | REACTJS | NEXTJS | JEST | NODE | EXPRESS | SQL | PYTHON | SPARK | PANDAS <br>
     Data analytics and plot (graphs, dashboards) <br>
-    UX designer <br>
+    UX <br>
   </p>
 </div>
-
-
 
 
 - 🔭 I’m currently working on Front-End Dev
