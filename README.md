@@ -2,11 +2,7 @@
   <h1>João S. Miranda</h1>
   <p>
     Electronic Engineering (UFPE)<br>
-    23 yo<br>
-    Brazilian<br>
     JS | REACTJS | NEXTJS | JEST | NODE | EXPRESS | SQL | PYTHON | SPARK | PANDAS <br>
-    Data analytics and plot (graphs, dashboards) <br>
-    UX <br>
   </p>
 </div>
 
@@ -17,6 +13,7 @@
 - 👯 I’m looking to collaborate on ReactJS Projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Cats > Humans
+- 📫 Contact: <a href="https://www.linkedin.com/in/jo%C3%A3o-miranda-pe/" rel="nofollow">Linkedin</a> | <a href="https://api.whatsapp.com/send?phone=5587988731995&amp;text=Ol%C3%A1" rel="nofollow">Whatsapp</a>
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMiranda11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
