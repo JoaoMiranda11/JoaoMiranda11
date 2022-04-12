@@ -2,9 +2,11 @@
 
 JS | REACTJS | NEXTJS | JEST | NODE | EXPRESS | SQL | PYTHON | SPARK | PANDAS
 
-<div style="display:flex; align-items: center; justify-content:center; flex-direction:column">
+<div style="display:flex; align-items: center; justify-content:center; flex-direction:column; border: 2px solid gray">
   <h1>João S. Miranda</h1>
-  <p>Electronic Engineering (UFPE), 23 yo, Brazilian</p>
+  <p>Electronic Engineering (UFPE)</p>
+  <p>23 yo</p>
+  <p>Brazilian</p>
 </div>
 
 
