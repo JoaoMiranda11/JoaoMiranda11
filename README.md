@@ -17,10 +17,10 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Cats > Humans
 
-
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=JoaoMiranda11&show_icons=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMiranda11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<div style="display:flex; align-items: center; justify-content:center; flex-direction:column;">
+  ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=JoaoMiranda11&show_icons=true)
+  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMiranda11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <!--
 
