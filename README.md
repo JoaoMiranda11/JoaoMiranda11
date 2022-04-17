@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on ReactJS Projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Cats > Humans
-- 📫 Contact: <a href="https://www.linkedin.com/in/jo%C3%A3o-miranda-pe/"  target="_blank" rel="nofollow">Linkedin</a> | <a href="https://api.whatsapp.com/send?phone=5587988731995&amp;text=Ol%C3%A1" target="_blank" rel="nofollow">Whatsapp</a>
+- 📫 Contact: <a href="https://www.linkedin.com/in/jo%C3%A3o-miranda-pe/"  target="_blank" rel="noopener noreferrer">Linkedin</a> | <a href="https://api.whatsapp.com/send?phone=5587988731995&amp;text=Ol%C3%A1" target="_blank" rel="noopener noreferrer">Whatsapp</a>
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMiranda11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
