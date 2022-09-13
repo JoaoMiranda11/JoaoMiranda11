@@ -2,7 +2,7 @@
   <h1>João S. Miranda</h1>
   <p>
     Electronic Engineering (UFPE)<br>
-    JS | REACTJS | NEXTJS | JEST | NODE | EXPRESS | SQL | PYTHON | SPARK | PANDAS <br>
+    TS/JS | REACTJS | NEXTJS | JEST | NODE | EXPRESS | SQL | PYTHON | SPARK | PANDAS <br>
   </p>
 </div>
 
