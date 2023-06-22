@@ -6,8 +6,6 @@
   </p>
 </div>
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=JoaoMiranda11&show_icons=true)
-
 - 🔭 I’m currently working on Fullstack Dev
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on NextJs Projects
