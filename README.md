@@ -6,7 +6,7 @@
   </p>
 </div>
 
-- 🔭 I’m currently working on Software engineer
+- 🔭 I’m currently working on Velotax as Software engineer
 - 🌱 I’m currently learning AWS
 - 😄 Pronouns: He/Him
 - 📫 Contact: <a href="https://www.linkedin.com/in/jo%C3%A3o-miranda-pe/"  target="_blank" rel="noopener noreferrer">Linkedin</a> | <a href="https://api.whatsapp.com/send?phone=5587991866024&amp;text=Ol%C3%A1" target="_blank" rel="noopener noreferrer">Whatsapp</a>
